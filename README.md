@@ -6,7 +6,7 @@
 2. Petunjuk compile dan run melalui terminal<br>
     Pastikan Java sudah terpasang di komputer.<br>
     a. Buka terminal atau Command Prompt.<br>
-    b. Masuk ke folder `src` (cd src).<br>
+    b. Masuk ke folder src (cd src).<br>
     c. Compile seluruh file java di src (javac HintProvider.java ScoreCalculator.java WordBank.java GameMode.java EasyMode.java HardMode.java Main.java)<br>
     d. Jalankan program Main.java (java Main)<br>
    
